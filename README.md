@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá 😄
 
-<!--
-**cahcastroc/cahcastroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Camila, seja bem-vinde ao meu espaço de rabiscos de códigos. :blush:
 
-Here are some ideas to get you started:
+Sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Entusiasta por
+:computer: Tecnologias
+:books: Educação
+:newspaper: Comunicação
+:vhs: Filmes e Séries
+:heart_eyes_cat: Gatos 
+
+
+:small_blue_diamond: Estudante de Análise e Desenvolvimento de Sistemas do Instituto de Tecnologia INFNET
+
+:small_blue_diamond: Em processo de transição de carreira (Comunicação, Educação -> ADS) e me aventurando (com brilho nos olhos) nessa área de desenvolvimento.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" /> https://www.linkedin.com/in/camilancastro/
+
+
+         
+          
