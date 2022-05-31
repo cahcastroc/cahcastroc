@@ -16,6 +16,18 @@ Entusiasta por
 
 :small_blue_diamond: Em processo de transição de carreira (Comunicação, Educação -> ADS) e me aventurando (com brilho nos olhos) nessa área de desenvolvimento.
 
+## ✔️ Trilhas de Aprendizagem até o momento
+
+- ``JavaScript``
+- ``HTML``
+- ``CSS``
+- ``React``
+- ``Vue``
+- ``Kotlin``
+- ``Android``
+
+
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" /> https://www.linkedin.com/in/camilancastro/
 
 
