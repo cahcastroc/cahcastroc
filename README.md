@@ -12,7 +12,7 @@ Entusiasta por
 :heart_eyes_cat: Gatos 
 
 
-:small_blue_diamond: Estudante de Análise e Desenvolvimento de Sistemas do Instituto de Tecnologia INFNET
+:small_blue_diamond: Estudante de Análise e Desenvolvimento de Sistemas do Instituto de Tecnologia INFNET e estagiária de Desenvolvimento FullStack no Sicredi.
 
 :small_blue_diamond: Em processo de transição de carreira (Comunicação, Educação -> ADS) e me aventurando (com brilho nos olhos) nessa área de desenvolvimento.
 
@@ -25,6 +25,7 @@ Entusiasta por
 - ``Vue``
 - ``Kotlin``
 - ``Android``
+- ``Java``
 
 
 
