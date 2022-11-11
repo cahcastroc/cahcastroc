@@ -19,7 +19,7 @@ Entusiasta por
 ## ✔️ Trilhas de Aprendizagem até o momento
 
 - ``JavaScript``
-- - ``TypeScript``
+- ``TypeScript``
 - ``HTML``
 - ``CSS``
 - ``React``
@@ -28,6 +28,7 @@ Entusiasta por
 - ``Android``
 - ``Java``
 - ``SpringBoot``
+
 
 
 
