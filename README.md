@@ -28,7 +28,8 @@ Entusiasta por
 - ``Android``
 - ``Java``
 - ``SpringBoot``
-
+- ``c#``
+- ``.NET``
 
 
 
