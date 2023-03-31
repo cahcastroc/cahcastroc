@@ -20,15 +20,14 @@ Entusiasta por
 
 - ``JavaScript``
 - ``TypeScript``
-- ``HTML``
-- ``CSS``
+- ``HTML/CSS``
 - ``React``
 - ``Vue``
 - ``Kotlin``
 - ``Android``
 - ``Java``
 - ``SpringBoot``
-- ``c#``
+- ``C#``
 - ``.NET``
 
 
